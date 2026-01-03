@@ -1,18 +1,84 @@
-![alttext](image.png)
-## Raphael Andrade
-## Conecte-se comigo
-[![GitHub](https://img.shields.io/badge/linkedin-fff?style=for-the-badge&logo=github&logoColor=height)](https://www.linkedin.com/in/raphael-de-andrade-1124aa175/)
-[![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=height)](https://github.com/Raphaelandrade2121)
-## Habilidades
-[![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Raphaelandrade2121)
+# Marcus Pinheiro
 
-[![Git](https://img.shields.io/badge/Git-fff?style=for-the-badge&logo=git&logoColor=fff)]
+💻 Desenvolvedor & Criador Digital
+🎯 Focado em resultados, tecnologia e crescimento de negócios
 
-[![git](https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=git&logoColor=fff)](https://docs.python.org/pt-br/3/library/)
+🚀 Sobre mim
 
-## GitHub Stats
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=Raphaelandrade&theme=transparent&bg_color=&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
+Meu nome é Marcus Vinícius, conhecido no GitHub como MarcusPJR. Tenho facilidade em aprender, gosto muito de trabalhar em equipe e contribuir ativamente para o crescimento da empresa.
 
-## Minha História
- 
-Me Chamo Raphael tenho,36 anos e sou residente do interior do Rio de Janeiro, minha area antiga de trabalho era mixologia, onde atuei durante algum tempo. Sempre fui desinteressado pelo campo technologico, há alguns meses atrás comecei a me interessar e conhecer este imenso mundo, e as tecnologias ao qual tenho ficado entusiasmado pelo conhecimento, ainda encontro algumas dificuldades, mais aos poucos tenho me esforçado para compreender e entender sobre o assunto e tenho gostado. Apesar de ainda estar buscando um caminho a seguir, iniciei um curso em dev Python backend e o versionamento de codigo.
+Atuo com criação de sites utilizando IA, tráfego pago, edições de vídeo no CapCut e manipulação de imagens no Photoshop, sempre buscando unir criatividade, estratégia e tecnologia para gerar resultados reais.
+
+Sou apaixonado por jogos 🎮, e meu jogo favorito é Red Dead Redemption 2, que reforçou ainda mais meu gosto por histórias bem construídas, atenção aos detalhes e experiências imersivas — valores que levo também para o meu trabalho.
+
+🛠️ Habilidades
+
+🌐 Criação de sites com apoio de Inteligência Artificial
+
+📈 Tráfego pago (estratégia, anúncios e otimização)
+
+🎬 Edição de vídeos no CapCut
+
+🖌️ Manipulação e criação de artes no Photoshop
+
+📱 Conteúdo digital e visual para redes sociais
+
+🎯 Perfil profissional
+
+✅ Gosto muito de trabalhar e aprender constantemente
+
+🤝 Comprometido em contribuir com a empresa
+
+🧠 Criativo, estratégico e focado em soluções
+
+🚀 Sempre buscando evolução profissional
+
+🌐 *Conecte-se comigo*
+
+
+
+
+"Trabalhar com dedicação hoje para construir resultados sólidos amanhã."# Marcus Pinheiro
+
+💻 Desenvolvedor & Criador Digital
+🎯 Focado em resultados, tecnologia e crescimento de negócios
+
+🚀 Sobre mim
+
+Meu nome é Marcus Vinícius, conhecido no GitHub como MarcusPJR. Tenho facilidade em aprender, gosto muito de trabalhar em equipe e contribuir ativamente para o crescimento da empresa.
+
+Atuo com criação de sites utilizando IA, tráfego pago, edições de vídeo no CapCut e manipulação de imagens no Photoshop, sempre buscando unir criatividade, estratégia e tecnologia para gerar resultados reais.
+
+Sou apaixonado por jogos 🎮, e meu jogo favorito é Red Dead Redemption 2, que reforçou ainda mais meu gosto por histórias bem construídas, atenção aos detalhes e experiências imersivas — valores que levo também para o meu trabalho.
+
+🛠️ Habilidades
+
+🌐 Criação de sites com apoio de Inteligência Artificial
+
+📈 Tráfego pago (estratégia, anúncios e otimização)
+
+🎬 Edição de vídeos no CapCut
+
+🖌️ Manipulação e criação de artes no Photoshop
+
+📱 Conteúdo digital e visual para redes sociais
+
+🎯 Perfil profissional
+
+✅ Gosto muito de trabalhar e aprender constantemente
+
+🤝 Comprometido em contribuir com a empresa
+
+🧠 Criativo, estratégico e focado em soluções
+
+🚀 Sempre buscando evolução profissional
+
+🌐 *Conecte-se comigo*
+
+
+
+
+"Trabalhar com dedicação hoje para construir resultados sólidos amanhã."
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-pinheiro-b37538379/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
